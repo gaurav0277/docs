@@ -1,7 +1,9 @@
 # React App Documentation
 ## Demo
+demo of the application
+![Image](https://github.com/user-attachments/assets/c74a7468-c3f1-4c2d-9cf2-509c4183c1db) .
 
-Check out a live demo of the application ![Image](https://github.com/user-attachments/assets/c74a7468-c3f1-4c2d-9cf2-509c4183c1db) . The demo showcases the draggable card feature, modular components, and responsive design powered by Tailwind CSS.
+The demo showcases the draggable card feature, modular components, and responsive design powered by Tailwind CSS.
 
 
 This project is a modern React application built with [Vite](https://vitejs.dev/) and styled using [Tailwind CSS](https://tailwindcss.com/). It features a modular component structure and includes draggable card functionality.
