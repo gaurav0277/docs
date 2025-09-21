@@ -1,7 +1,6 @@
 # React App Documentation
 ## Demo
 
-![Image](https://github.com/user-attachments/assets/c74a7468-c3f1-4c2d-9cf2-509c4183c1db) 
 
 https://github.com/user-attachments/assets/c3ceec1b-8108-409d-a6d3-114a39de7afa
 
@@ -61,3 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for creating custom designs.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Framer Motion](https://www.framer.com/motion/) - A powerful animation library for React to create smooth, interactive UI transitions.
+
+![Image](https://github.com/user-attachments/assets/c74a7468-c3f1-4c2d-9cf2-509c4183c1db) 
