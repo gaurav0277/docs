@@ -2,7 +2,7 @@
 ## Demo
 
 
-https://github.com/user-attachments/assets/c3ceec1b-8108-409d-a6d3-114a39de7afa
+https://github.com/user-attachments/assets/c70c7c63-eec7-452d-8f2c-646348ce4b9d
 
 demo of the application.
 The demo showcases the draggable card feature, modular components, and responsive design powered by Tailwind CSS.
